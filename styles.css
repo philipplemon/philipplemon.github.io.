@@ -1,0 +1,41 @@
+body {
+  color:red;
+  background-color:black;
+  font-family: "Helvetica", "Arial", sans-serif;
+  font-size: 14 px;
+}
+h1 {
+  padding-top: 5px;
+  font-size: 16px;
+  font-weight: normal;
+  text-align: center;
+}
+a {
+  color: red;
+  text-decoration: none;
+}
+.main{
+  padding-top: 150px;
+  text-align: center;
+}
+.paypal{
+  padding-top: 14px;
+  padding-left: 7px;
+}
+.left{
+  padding-left: 8px;
+  text-align: left;
+  float: left;
+  position: absolute;
+  bottom: 12px;
+  height: 20px;
+}
+.right{
+  padding-right: 14px;
+  text-align: right;
+  float: right;
+  position: absolute;
+  bottom: 12px;
+  height: 20px;
+  right: 0px;
+}
